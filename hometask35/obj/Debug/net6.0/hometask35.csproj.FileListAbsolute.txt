@@ -1,0 +1,15 @@
+D:\Наташина папка\GB\C#\seminar5\hometask35\bin\Debug\net6.0\hometask35.exe
+D:\Наташина папка\GB\C#\seminar5\hometask35\bin\Debug\net6.0\hometask35.deps.json
+D:\Наташина папка\GB\C#\seminar5\hometask35\bin\Debug\net6.0\hometask35.runtimeconfig.json
+D:\Наташина папка\GB\C#\seminar5\hometask35\bin\Debug\net6.0\hometask35.dll
+D:\Наташина папка\GB\C#\seminar5\hometask35\bin\Debug\net6.0\hometask35.pdb
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\hometask35.csproj.AssemblyReference.cache
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\hometask35.GeneratedMSBuildEditorConfig.editorconfig
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\hometask35.AssemblyInfoInputs.cache
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\hometask35.AssemblyInfo.cs
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\hometask35.csproj.CoreCompileInputs.cache
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\hometask35.dll
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\refint\hometask35.dll
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\hometask35.pdb
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\hometask35.genruntimeconfig.cache
+D:\Наташина папка\GB\C#\seminar5\hometask35\obj\Debug\net6.0\ref\hometask35.dll
