@@ -8,7 +8,8 @@ int [] GetRandomArray(int length, int leftRange, int rightRange)
         array[i] = rand.Next(leftRange, rightRange + 1);
     }
     return array;
-}// (int, int) - это возврат после работы функции:
+}
+// (int, int) - это возврат после работы функции:
 // 1. сумма положительных элементов
 // 2. сумма отрицательных элементов
 (int, int) SumPositiveAndNegative (int[] array)
